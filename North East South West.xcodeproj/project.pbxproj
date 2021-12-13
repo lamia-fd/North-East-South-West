@@ -16,6 +16,7 @@
 		5F53292C2767DAC800CDAAF6 /* North_East_South_WestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F53292B2767DAC800CDAAF6 /* North_East_South_WestTests.swift */; };
 		5F5329362767DAC800CDAAF6 /* North_East_South_WestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F5329352767DAC800CDAAF6 /* North_East_South_WestUITests.swift */; };
 		5F5329382767DAC800CDAAF6 /* North_East_South_WestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F5329372767DAC800CDAAF6 /* North_East_South_WestUITestsLaunchTests.swift */; };
+		5F5329472767EADC00CDAAF6 /* ViewControllerSecond.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F5329462767EADB00CDAAF6 /* ViewControllerSecond.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		5F5329312767DAC800CDAAF6 /* North East South WestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "North East South WestUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F5329352767DAC800CDAAF6 /* North_East_South_WestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = North_East_South_WestUITests.swift; sourceTree = "<group>"; };
 		5F5329372767DAC800CDAAF6 /* North_East_South_WestUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = North_East_South_WestUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5F5329462767EADB00CDAAF6 /* ViewControllerSecond.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerSecond.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				5F53291D2767DAC700CDAAF6 /* Assets.xcassets */,
 				5F53291F2767DAC700CDAAF6 /* LaunchScreen.storyboard */,
 				5F5329222767DAC700CDAAF6 /* Info.plist */,
+				5F5329462767EADB00CDAAF6 /* ViewControllerSecond.swift */,
 			);
 			path = "North East South West";
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				5F5329192767DABE00CDAAF6 /* ViewController.swift in Sources */,
 				5F5329152767DABE00CDAAF6 /* AppDelegate.swift in Sources */,
+				5F5329472767EADC00CDAAF6 /* ViewControllerSecond.swift in Sources */,
 				5F5329172767DABE00CDAAF6 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
